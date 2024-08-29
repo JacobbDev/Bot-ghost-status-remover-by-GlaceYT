@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["dsc.gg/SpaceStore","Sklep Z Itemami Anarchii GG","Sklep z N1TR0 Service","dsc.gg/SpaceStore"];
+const statusMessages = ["dsc.gg/SpaceStore"];
 
 
 let currentIndex = 0;
