@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["dsc.gg/SpaceStore"];
+   const statusMessages = ["dsc.gg/SpaceStore 🚀"];
 
 
 let currentIndex = 0;
