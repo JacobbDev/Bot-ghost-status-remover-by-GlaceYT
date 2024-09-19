@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-   const statusMessages = ["dsc.gg/SpaceStore 🚀"];
+   const statusMessages = ["w Grze: STYLEMC.PL"];
 
 
 let currentIndex = 0;
