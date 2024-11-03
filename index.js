@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-   const statusMessages = ["Ogląda: dc.gg/starcode, Ogląda: Starcode"];
+   const statusMessages = ["Ogląda: dc.gg/starcode"];
 
 
 let currentIndex = 0;
