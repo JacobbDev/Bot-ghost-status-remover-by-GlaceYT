@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-   const statusMessages = ["w Grze: STYLEMC.PL"];
+   const statusMessages = ["Ogląda: dc.gg/starcode, Ogląda: Starcode"];
 
 
 let currentIndex = 0;
